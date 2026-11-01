@@ -1,4 +1,4 @@
-# WEB DEVELOPMENT LAB
+.# WEB DEVELOPMENT LAB
 
 **Student Name:** T. Navadeep  
 **Branch:** CSE (AI & ML)  
@@ -44,7 +44,7 @@
 ![Movie Review and Rating Website Output](output3.jpeg.png)
 
 ##word documennt
-[view word document] (document.docx)
+[view word document] (document.docx.docx)
 
 
 ---
