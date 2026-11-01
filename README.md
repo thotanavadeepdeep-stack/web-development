@@ -43,13 +43,9 @@
 
 ![Movie Review and Rating Website Output](output3.jpeg.png)
 
-Web-Development/
-│
-├── document.docx
-├── README.md
-├── Gaming Zone.html
-├── Restaurant.html
-└── Movie Review.html
+## Project Documentation
+
+[View / Download Project Document](./document.docx)
 
 ---
 
