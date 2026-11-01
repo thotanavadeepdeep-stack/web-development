@@ -45,7 +45,6 @@
 
 ## Project Documentation
 
-[View / Download Project Document](./document.docx)
-
+[View Project Documentation](./document.pdf)
 ---
 
