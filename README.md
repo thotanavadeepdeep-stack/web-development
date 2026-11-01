@@ -45,13 +45,11 @@
 
 Web-Development/
 │
+├── document.docx
+├── README.md
 ├── Gaming Zone.html
 ├── Restaurant.html
-├── Movie Review.html
-├── document.docx
-├── vi.jpeg.png
-└── README.md
-
+└── Movie Review.html
 
 ---
 
